@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+  <li><a rel="me" href="https://mastodon.social/ericfreyss">@ericfreyss@mastodon.social</a></li>
+  <li><a href="https://twitter.com/ericfreyss">@ericfreyss</a></li>
+</ul>
+  
