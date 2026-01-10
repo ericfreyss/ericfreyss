@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <ul>
   <li><img width="16px" src="mastodon.social.svg"> <a rel="me" href="https://mastodon.social/ericfreyss">@ericfreyss@mastodon.social</a></li>
-  <li><img width="16px" src="twitter.com.svg"> <a href="https://twitter.com/ericfreyss">@ericfreyss</a></li>
+  <li><img width="16px" src="twitter.com.svg"> <a href="https://twitter.com/ericfreyss">@ericfreyss</a> (actually don't use it anymore)</li>
 </ul>
   
