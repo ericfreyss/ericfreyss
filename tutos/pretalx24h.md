@@ -1,7 +1,3 @@
-Here is the English version of the tutorial, formatted in Markdown for your GitHub repository.
-
----
-
 # Enabling 24h Time Format and English (UK) in Pretalx
 
 This guide explains how to force a 24-hour time format on a Pretalx instance by adding the `en-gb` (English UK) locale, while preserving all other installed languages.
