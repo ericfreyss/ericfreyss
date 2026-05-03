@@ -30,9 +30,9 @@ if not any(lang[0] == 'en-gb' for lang in LANGUAGES):
     LANGUAGES = list(LANGUAGES) + [('en-gb', gettext_noop('English (UK)'))]
 
 # 3. Global 24h time formatting settings
-TIME_FORMAT = 'H:i'
-DATETIME_FORMAT = 'd/m/Y H:i'
-SHORT_DATETIME_FORMAT = 'd/m/Y H:i'
+# TIME_FORMAT = 'H:i'
+# DATETIME_FORMAT = 'd/m/Y H:i'
+# SHORT_DATETIME_FORMAT = 'd/m/Y H:i'
 ```
 
 Set the correct ownership for the file:
