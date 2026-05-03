@@ -86,9 +86,3 @@ sudo -u pretalx \
 ```
 
 If the command returns `H:i`, the configuration is active.
-
----
-
-### Why not use `pretalx.cfg`?
-The `.cfg` file is designed for infrastructure settings (Database, SMTP, etc.). Django rendering settings such as `TIME_FORMAT` or dynamic modifications to the `LANGUAGES` list must be injected via a Python module, which is why we use `DJANGO_SETTINGS_MODULE`.
-```
